@@ -1,0 +1,15 @@
+/Users/ram/Projects/ExaSoftTest/Problem1/bin/Debug/net7.0/Problem1
+/Users/ram/Projects/ExaSoftTest/Problem1/bin/Debug/net7.0/Problem1.deps.json
+/Users/ram/Projects/ExaSoftTest/Problem1/bin/Debug/net7.0/Problem1.runtimeconfig.json
+/Users/ram/Projects/ExaSoftTest/Problem1/bin/Debug/net7.0/Problem1.dll
+/Users/ram/Projects/ExaSoftTest/Problem1/bin/Debug/net7.0/Problem1.pdb
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.csproj.AssemblyReference.cache
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.AssemblyInfoInputs.cache
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.AssemblyInfo.cs
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.csproj.CoreCompileInputs.cache
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.dll
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/refint/Problem1.dll
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.pdb
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/Problem1.genruntimeconfig.cache
+/Users/ram/Projects/ExaSoftTest/Problem1/obj/Debug/net7.0/ref/Problem1.dll
