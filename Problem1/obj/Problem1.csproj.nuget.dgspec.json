@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ram/Projects/ExaSoftTest/Problem1/Problem1.csproj": {}
+    "/Users/ram/Projects/ExaSoftTest/ExosoftTestRepo/Problem1/Problem1.csproj": {}
   },
   "projects": {
-    "/Users/ram/Projects/ExaSoftTest/Problem1/Problem1.csproj": {
+    "/Users/ram/Projects/ExaSoftTest/ExosoftTestRepo/Problem1/Problem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ram/Projects/ExaSoftTest/Problem1/Problem1.csproj",
+        "projectUniqueName": "/Users/ram/Projects/ExaSoftTest/ExosoftTestRepo/Problem1/Problem1.csproj",
         "projectName": "Problem1",
-        "projectPath": "/Users/ram/Projects/ExaSoftTest/Problem1/Problem1.csproj",
+        "projectPath": "/Users/ram/Projects/ExaSoftTest/ExosoftTestRepo/Problem1/Problem1.csproj",
         "packagesPath": "/Users/ram/.nuget/packages/",
-        "outputPath": "/Users/ram/Projects/ExaSoftTest/Problem1/obj/",
+        "outputPath": "/Users/ram/Projects/ExaSoftTest/ExosoftTestRepo/Problem1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ram/.nuget/NuGet/NuGet.Config"
